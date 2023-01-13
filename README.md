@@ -7,6 +7,7 @@
 [`Instagram`](https://www.instagram.com/lordfranco26/)
 
 Important dates
-| Meal | Monday | Tuesday | Wednesday | Thursday | Fraiday |
-|------|--------|---------|-----------|----------|---------|
-| Breakfast | Hello |
+| Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
+|------|--------|---------|-----------|----------|--------|
+| Breakfast | Cereal | Eggs | Bacon | Sandwich | Pancake |
+| Lunch |
