@@ -7,6 +7,7 @@
 [`Instagram`](https://www.instagram.com/lordfranco26/)
 
 Important dates
+## Rizz session every Monday
 
 | Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
 |------|--------|---------|-----------|----------|--------|
