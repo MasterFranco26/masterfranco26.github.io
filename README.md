@@ -14,6 +14,8 @@ Important dates
 | Lunch | Sinigang Hipon | Fish Fillet | Chicken Fingers | Beef Steak | Fried Chicken |
 | Dinner | Chicken Curry | Pork Adobo | Roasted Tilapia | Chicken Tinola | Cheese Burger|
 
+In this video you can see me dancing with my club members. I love dancing, it's my passion
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xb_8VMmcrBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This is my Favorite Song
