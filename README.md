@@ -27,4 +27,4 @@ and This is my Favorite playlist
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4LPW9TYYW9RWcn70kL8xh0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-![alt text](![image](https://user-images.githubusercontent.com/122424289/214181177-4627326c-a84f-4b3e-9922-6d042d54d5e3.png)
+(![image](https://user-images.githubusercontent.com/122424289/214181177-4627326c-a84f-4b3e-9922-6d042d54d5e3.png)
